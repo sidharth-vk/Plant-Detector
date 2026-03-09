@@ -6,7 +6,7 @@ import io
 
 # 1. Configuration
 # Ensure your API Key is correctly set
-API_KEY = "AIzaSyB-j_KXiCWSYvV59e2KFppSIzge_uNF4QE" 
+API_KEY = "" 
 
 
 # Set your key securely
